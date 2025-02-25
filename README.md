@@ -21,7 +21,7 @@ This is a **fully responsive Animated Website** built using **Bootstrap 5.3**. I
 
 
 ## 📸 Screenshots
-![Website Preview](https://via.placeholder.com/800x400?text=Website+Preview)
+![Website Preview](https://github.com/dishagiri23/Animated-Bootstrap/blob/89e78d6b4ebfc77d0dd96dac2ee552bdd3661ced/screenshot.png)
 
 ## 🚀 How to Run the Project
 1. **Clone the repository**
