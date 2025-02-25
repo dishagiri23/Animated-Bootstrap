@@ -26,7 +26,7 @@ This is a **fully responsive Animated Website** built using **Bootstrap 5.3**. I
 ## 🚀 How to Run the Project
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/animated-website-bootstrap.git
+   git clone https://github.com/dishagiri23/Animated-Bootstrap.git
    ```
 2. **Open `index.html` in your browser**
 3. Enjoy the animations! 🎉
