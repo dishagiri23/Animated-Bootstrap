@@ -32,7 +32,7 @@ This is a **fully responsive Animated Website** built using **Bootstrap 5.3**. I
 3. Enjoy the animations! 🎉
 
 ## 🎥 Live Demo  
-🔗 [Check the demo of the project on LinkedIn post!](https://www.linkedin.com/posts/disha-giri-414a72314_bootstrap-webdevelopment-animation-activity-7300033819758256128-_z5z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE_kPtABCjw9fH2akV5Tu82nt9cl_XeXa-o) 🚀  
+🔗 [Check the demo of the project on LinkedIn post!](https://www.linkedin.com/posts/disha-giri-414a72314_bootstrap-webdevelopment-animation-activity-7300035499740557312-YIDe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE_kPtABCjw9fH2akV5Tu82nt9cl_XeXa-o) 🚀  
 
 ## 🤝 Contributing
 Feel free to **fork** this repository and improve the project! If you find any bugs, create an issue. Pull requests are welcome.
